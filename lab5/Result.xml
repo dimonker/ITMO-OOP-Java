@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+  <comp name="MSI">
+    <price>200.0</price>
+    <color>Black</color>
+    <colormethod>Black</colormethod>
+  </comp>
+  <person>
+    <fullname lang="RUS">Alexey</fullname>
+    <fullname>RUS</fullname>
+  </person>
+  <person>
+    <fullname lang="RUS">Sergey</fullname>
+    <fullname>RUS</fullname>
+    <comp name="MSI">
+      <price>200.0</price>
+      <color>Black</color>
+      <colormethod>Black</colormethod>
+    </comp>
+  </person>
+</data>
